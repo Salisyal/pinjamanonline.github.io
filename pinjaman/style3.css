@@ -1,0 +1,11 @@
+*{margin:0px auto;}
+#container{
+    position:relative;
+}
+ 
+#footer{
+    height:50px;
+    line-height:50px;
+    background:#333;
+    color:#fff;
+}

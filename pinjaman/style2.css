@@ -1,0 +1,15 @@
+.jumbotron {
+	background-image: url(img/yuk.png);
+	background-size: cover;
+	height: 900px;
+	margin-top: -120px;
+	text-align: left;
+}
+
+.jumbotron .display-4{
+	margin-top: 300px;
+}
+
+.jumbotron p{
+	font-size: 22px;
+}
